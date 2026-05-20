@@ -8,6 +8,6 @@ export default defineConfig({
     open: false,
   },
   preview: {
-    allowedHosts: 'all',
+    allowedHosts: true,
   },
 });
